@@ -1,4 +1,4 @@
 fun main(args: Array<String>){
-    val input in args
+    input in args
     println(args)
 }
