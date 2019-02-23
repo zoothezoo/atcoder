@@ -9,60 +9,36 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1810847193">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.6" value="2" />
-          <entry key="project.opened" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="2" />
-          <entry key="gitignore" value="1" />
-          <entry key="iml" value="2" />
-          <entry key="kt" value="16" />
-          <entry key="kts" value="1" />
-          <entry key="pair" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="2" />
-          <entry key="IDEA_MODULE" value="2" />
-          <entry key="Kotlin" value="9" />
-          <entry key="PLAIN_TEXT" value="8" />
-          <entry key="Scratch" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="kt" value="14062" />
-          <entry key="pair" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Kotlin" value="13804" />
-          <entry key="PLAIN_TEXT" value="260" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages" />
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/abc001/src/NationalCenterTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
+            <state relative-caret-position="525">
               <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/abc097/a.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/abc001/SnowDepth.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/idea.vmoptions">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -99,14 +75,13 @@
         <option value="$PROJECT_DIR$/abc107/src/Train.kt" />
         <option value="$PROJECT_DIR$/abc107/src/GridCompression.kt" />
         <option value="$PROJECT_DIR$/abc001/src/NationalCenterTest.kt" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea.vmoptions" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="173" />
-    <option name="y" value="931" />
-    <option name="width" value="1370" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -115,6 +90,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,6 +112,21 @@
             <path>
               <item name="atcoder" type="b2602c69:ProjectViewProjectNode" />
               <item name="atcoder" type="462c0819:PsiDirectoryNode" />
+              <item name="abc095" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcoder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcoder" type="462c0819:PsiDirectoryNode" />
+              <item name="abc097" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcoder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcoder" type="462c0819:PsiDirectoryNode" />
+              <item name="abc100" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcoder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcoder" type="462c0819:PsiDirectoryNode" />
               <item name="abc107" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -144,15 +135,24 @@
               <item name="abc107" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="atcoder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcoder" type="462c0819:PsiDirectoryNode" />
+              <item name="abc108" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="atcoder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="atcoder" type="462c0819:PsiDirectoryNode" />
+              <item name="abc113" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537452005990" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549384643535" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="kotlin" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -239,11 +239,11 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Kotlin.GridCompressionKt" />
+      <item itemvalue="Kotlin.NationalCenterTestKt" />
       <item itemvalue="Kotlin.PairKt" />
       <item itemvalue="Kotlin.RuinedSquareKt" />
       <item itemvalue="Kotlin.TrainKt" />
-      <item itemvalue="Kotlin.GridCompressionKt" />
-      <item itemvalue="Kotlin.NationalCenterTestKt" />
     </list>
     <recent_temporary>
       <list>
@@ -269,9 +269,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="53" y="722" width="1867" height="1055" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12699285" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13018598" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -285,7 +285,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.35903615" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32937366" />
@@ -297,6 +297,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12204508" />
@@ -327,9 +328,6 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout-to-restore>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
@@ -359,10 +357,7 @@
     <entry file="file://$PROJECT_DIR$/abc108/abc108.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/abc108/src/pair.kt" />
-    <entry file="file://$PROJECT_DIR$/out/production/abc108/PairKt.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/abc108/PairKt.class" />
     <entry file="file://$PROJECT_DIR$/abc108/src/Pair.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -384,20 +379,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/abc107/src/GridCompression.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abc113/a.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/abc107/src/Train.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
+        <state relative-caret-position="75">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/abc107/src/GridCompression.kt">
+    <entry file="file://$PROJECT_DIR$/abc107/abc107.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/abc001/src/NationalCenterTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
+        <state relative-caret-position="525">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abc097/a.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abc001/SnowDepth.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
         </state>
       </provider>
     </entry>
