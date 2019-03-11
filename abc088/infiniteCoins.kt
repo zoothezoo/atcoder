@@ -4,3 +4,6 @@ fun main(args :Array<String>){
     val ans :String = if(n % 500 <= a) "Yes" else "No"
     println(ans)
 }
+
+
+

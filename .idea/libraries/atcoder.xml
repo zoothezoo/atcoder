@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="atcoder">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/c.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
