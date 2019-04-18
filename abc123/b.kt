@@ -1,29 +1,34 @@
 fun main(args: Array<String>){
-    val input :MutableList<Int> = mutableListOf()
-    repeat(5){
-        input.add(readLine()!!.toInt())
-    }
-    var max = 0
-    var index = 0
-    for(i in 0..4){
-        if(input[i] % 10 == 0){
-        }
-        else if(max < 10 - input[i]%10){
-            max = 10 - input[i]%10
-            index = i
-        }
-    }
-    var time = 0
-    for(i in 0..4){
-        if(i == index){
-        }
-        else{
-            time += input[i]
-            if(input[i] % 10 != 0){
-                time += 10 - input[i]%10
-            }
-        }
-    }
-    time += input[index]
-    println(time)
+	val ina = readLine()!!.split(" ")
+	val inb = readLine()!!.split(" ")
+	val inc = readLine()!!.split(" ")
+	var list = mutableListOf<Int>()
+
+	list.add(ina[0].toInt())
+	list.add(ina[1].toInt())
+	list.add(inb[0].toInt())
+	list.add(inb[1].toInt())
+	list.add(inc[0].toInt())
+	list.add(inc[1].toInt())
+
+	var co1 = 0
+	var co2 = 0
+	var co3 = 0
+	var co4 = 0
+
+	for(i in 0..5){
+		when(list[i]){
+			1-> co1++
+			2-> co2++
+			3-> co3++
+			4-> co4++
+		}
+	}
+
+	if(co1 > 2 || co2 > 2 || co3 > 2 || co4 > 2){
+		println("NO")
+	}
+	else{
+		println("YES")
+	}
 }

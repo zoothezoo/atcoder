@@ -1,18 +1,26 @@
 fun main(args: Array<String>){
-    val N = readLine()!!.toLong()
-    val input : MutableList<Long> = mutableListOf()
-    repeat(5){
-        input.add(readLine()!!.toLong())
-    }
+	val input = readLine()!!.split(" ")
+	val k = input[0].toInt()
+	val a = input[1].toInt()
+	val b = input[2].toInt()
 
-    var count: Long = 0L
-    input.sort()
-    if(N % input[0] == 0L){
-        count +=  N / input[0]
-        println(4L + count)
-    }
-    else{
-        count += N / input[0]
-        println(5L + count)
-    }
+	var ans = 0
+	var cookie = 1
+
+	if(a >= b){
+		println(k+1)
+	}
+	else{
+		//var cool = (k) / (a+2)
+		//println(cool)
+		//if(k > (a+2)*cool){
+		//	ans = (k-((a+2)*cool)) + b*cool + 1
+		//	println(ans)
+		//}
+		//else{
+		//		
+		//}
+		
+	}
+	 
 }
