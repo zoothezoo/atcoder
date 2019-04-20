@@ -8,7 +8,7 @@ fun main(args: Array<String>){
     var fl = 0
     if(s[0] == '#'){
         for(i in 0..n-1){
-            if(s[i] == '.'){
+    if(s[i] == '.'){
                 cntp++
             }
             else{
