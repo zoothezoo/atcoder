@@ -4,7 +4,7 @@
 
 - language: **Kotlin**
 
-- grade color: ***gray***
+- grade color: ***brown***
 
 - one **AC** per day
 
@@ -13,5 +13,5 @@
 
 [AtCoderProblems][2]
 
-[1]:https://atcoder.jp/
+[1]:https://atcoder.jp/user/zoothezoo
 [2]:https://kenkoooo.com/atcoder/#/table//
