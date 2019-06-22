@@ -9,9 +9,9 @@
 - one **AC** per day
 
 ### links
-[AtCoder][1]
+[AtCoder/MyPage][1]
 
-[AtCoderProblems][2]
+[AtCoderProblems/MyPage][2]
 
 [1]:https://atcoder.jp/user/zoothezoo
-[2]:https://kenkoooo.com/atcoder/#/table//
+[2]:https://kenkoooo.com/atcoder/#/user/zoothezoo/
