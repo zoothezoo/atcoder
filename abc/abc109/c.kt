@@ -1,4 +1,21 @@
 fun main(args: Array<String>){
+    val (n,x) = readLine()!!.split(" ").map(String::toInt)
+    val list = readLine()!!.split(" ").map(String::toInt)
+
+    val difflist = mutableListOf<Int>()
+
+    for(i in 0..list.size-1){
+            difflist.add(Math.abs(x-list[i]))
+    }
+
+    var answer = difflist[0]
+    for(i in 0..difflist.size-2){
+        answer = gcd(answer,difflist[i+1])
+    }
+
+    //println(difflist)
+    println(answer)
+
 
 }
 
